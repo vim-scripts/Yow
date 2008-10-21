@@ -1,0 +1,15 @@
+*yow.txt*  Vim port of Emacs's M-x yow feature
+
+Commands:
+
+:Yow
+    Displays a Zippy The Pinhead quote.
+
+:YowInfo
+    Displays information about the current Yow! install.
+
+                                                               *yow-settings*
+
+The quotes are stored in a file "yow.lines" which should be available in your
+runtime path.  This file is taken directly from Emacs.  Quotes are
+null-separated and the first quote is just info.

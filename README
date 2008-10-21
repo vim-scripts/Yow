@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2411
+
+A port of the M-x yow feature in Emacs.  Entering the command :Yow earns you a random Zippy The Pinhead quote.
+
+The quotes are stored in the file "yow.lines", which i borrowed from Emacs.
+
+Defining your own quotes is possible by changing yow.lines.  The format is explained in the yow.lines file.
